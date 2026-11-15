@@ -22,16 +22,6 @@ This is useful for Kodi's play/pause action (Space).
 - **Hold LEFT** to switch between the two compact remote layouts shown on the Flipper display.
 - The Flipper Zero's physical display is fixed in landscape (128×64); this switches the on-screen arrangement, it cannot physically rotate the Flipper display to portrait.
 
-## Build with FlipperFAP on Android
-
-1. Upload this folder's contents to a new public GitHub repository (or push this ZIP's files to a repo).
-2. Open https://joelewis012.github.io/flipper-fap-actions/index.html on your Android phone.
-3. Paste your GitHub repository URL into **GIT REPOSITORY URL**.
-4. Choose **Official** firmware (or the firmware variant installed on your Flipper).
-5. Tap **Compile .FAP** and wait for the build to finish.
-6. Download the `.fap`, then copy it to your Flipper SD card under `/apps/Tools/` (or `/apps/`).
-7. On the Flipper, open **Apps → Tools → USB Remote for Kodi**.
-8. Connect the Flipper by a USB data cable to your PC/laptop. Start the app; the PC should detect a USB keyboard.
 
 ## Important notes
 
