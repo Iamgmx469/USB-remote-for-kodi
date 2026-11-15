@@ -1,0 +1,11 @@
+App(
+    appid="usb_remote_kodi",
+    name="Kodi USB Remote",
+    apptype=FlipperAppType.EXTERNAL,
+    entrypoint="usb_remote_kodi_app",
+    stack_size=2048,
+    fap_version="1.0",
+    fap_description="USB HID remote control for Kodi",
+    fap_author="Flipper User",
+    requires=["gui"],
+)
